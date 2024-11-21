@@ -1,5 +1,5 @@
 ## 💻 Bem-vindo ao meu GitHub!
-> Olá! Sou um estudante de Jogos Digitais, apaixonado por criar experiências interativas e explorar o mundo do desenvolvimento de jogos. Aqui você encontrará alguns dos meus projetos, protótipos e experimentos em programação e design de jogos.
+> Olá! Sou um estudante de Jogos Digitais, apaixonado por criar experiências interativas e explorar o mundo do desenvolvimento de jogos. Aqui você encontrará minhas habilidaes na area de Jogos Digitais
 
 ## 🥷 Sobre mim
 
